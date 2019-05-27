@@ -122,7 +122,7 @@ class RequestHandler(http.server.SimpleHTTPRequestHandler):
   #
   def send_regions(self):
 
-    conn = sqlite3.connect('velo.db.sql')
+    conn = sqlite3.connect('velov.sqlite')
     c = conn.cursor()
     
     c.execute("SELECT * FROM 'regions'")
@@ -137,7 +137,7 @@ class RequestHandler(http.server.SimpleHTTPRequestHandler):
   #
   def send_ponctualite(self):
 
-    conn = sqlite3.connect('ter.sqlite')
+    conn = sqlite3.connect('Velov.sqlite')
     c = conn.cursor()
     
     c.execute("SELECT DISTINCT Région FROM 'regularite-mensuelle-ter'")
