@@ -1,0 +1,350 @@
+X;Y;Z;idstation;nom;adresse1;adresse2;commune;numdansarr;nbbornette;stationbon;pole;ouverte;achevement;gid;code_insee
+4.87989386727746;45.7668306064525;0;10027;Mairie de Villeurbanne;Avenue Aristide Briand;En face de l'entrée de la mairie;VILLEURBANNE;27;26;Non;Mairie de Villeurbanne, TNP, itinéraire cyclable;Oui;;1;69266
+4.89384801671434;45.7738436681982;0;10030;Greuze;2, Rue Greuze;;VILLEURBANNE;30;18;Non;centre social;Oui;;2;69266
+4.8861572848566;45.7617882849687;0;10034;Docteur Damidot;Rue du Docteur Damidot;Devant la MJC;VILLEURBANNE;34;10;Non;MJC;Oui;;3;69266
+4.85915458576084;45.7743568286995;0;10036;Stalingrad;Avenue Stalingrad;angle rue Chaplin;VILLEURBANNE;36;16;Non;entreprises, itinéraires cyclables;Oui;;4;69266
+4.86677832802409;45.7790457737186;0;10038;Condorcet;Boulevard du 11 Novembre 1918;Croisement Tram;VILLEURBANNE;38;12;Non;tram, itinéraire cyclable;Oui;;5;69266
+4.8905858366251;45.7830110745979;0;10043;Salengro / Feyssine;Face 44, Rue de la Feyssine;;VILLEURBANNE;43;20;Non;itinéraires cyclables;Oui;;6;69266
+4.88499768198071;45.7711723255043;0;10047;Lherminier / Pressensé;2, Rue du Commandant Lherminier;Angle Rue de Pressensé;VILLEURBANNE;47;10;Non;itinéraires cyclables;Oui;;7;69266
+4.87588806571722;45.7592438500941;0;10048;Place Marengo;Place Marengo;;VILLEURBANNE;48;22;Non;c¿ur quartier, itinéraire cyclable;Oui;;8;69266
+4.82049353568986;45.7426463934711;0;2007;Patinoire Charlemagne;100, Cours Charlemagne;Angle rue Casimir Périer;Lyon 2 ème;7;22;Non;tram, patinoire;Oui;;9;69382
+4.89150082452704;45.7794499265826;0;10039;Bouvier;Rue du Professeur Bouvier;Angle rue du 8 Mai 1945;VILLEURBANNE;39;16;Non;coeur quartier;Oui;;10;69266
+4.83428668834704;45.763076929567;0;2016;Place Regaud;Place Regaud;Angle rue Tupin / rue Herriot;Lyon 2 ème;16;12;Non;maillage, Virgin;Oui;;11;69382
+4.86569926844606;45.7722995938508;0;10075;Gabriel Péri;Rue Gabriel Péri;Angle cours André Philip;VILLEURBANNE;75;12;Non;;Oui;;12;69266
+4.87916148913811;45.7681304002299;0;10079;Anatole France / Barbusse;Rue Anatole France;Angle avenue Barbusse;VILLEURBANNE;79;20;Non;marché, centre-ville;Oui;;13;69266
+4.85183018012134;45.7733195111248;0;6006;Boulevard des Belges;Boulevard des Belges;Face rue Duquenne;Lyon 6 ème;6;15;Non;Parc de la Tête d'Or;Oui;;14;69386
+4.8494994527405;45.7683990532862;0;6011;Mairie du 6e;58, Rue de Sèze;angle rue Boileau;Lyon 6 ème;11;15;Non;mairie du 6e;Oui;;15;69386
+4.88952608578932;45.7698360005898;0;10086;Anatole France;Rue Anatole France;Angle Rue de Pressensé / Flachet;VILLEURBANNE;86;10;Non;maillage, iti. Cyclable;Oui;;16;69266
+4.84460363574836;45.7717570855734;0;6012;Place Puvis de Chavannes;Place Puvis de Chavannes;Angle rue Vendôme;Lyon 6 ème;12;10;Non;;Oui;;17;69386
+4.8126762195854;45.7697822121574;0;9011;Conservatoire;Quai Chauveau;avant angle pont Koenig;Lyon 9 ème;11;19;Non;Conservatoire national de musique;Oui;;18;69389
+4.88056348866904;45.7481664733629;0;3051;Place Henri;Place Henri;rue du Docteur Long;Lyon 3 ème;51;13;Non;maillage;Oui;;19;69383
+4.80531798091198;45.7756418294443;0;9003;Place Valmy;Rue Roquette;angle rue de Bourgogne;Lyon 9 ème;3;16;Non;métro D, médiathèque;Oui;;20;69389
+4.82904044151992;45.7633758464824;0;5026;Rue de la Baleine;Rue de la Baleine;angle quai Romain Rolland;Lyon 5 ème;26;14;Non;Vieux Lyon;Oui;;21;69385
+4.86645231726683;45.7450174320832;0;8007;Frères Lumière;Rue des Frères Lumières;angle rue Villon;Lyon 8 ème;7;15;Non;commerces;Oui;;22;69388
+4.86428606575088;45.7742255397183;0;10072;Jacques Brel;Rue Jacques Brel;;VILLEURBANNE;64;23;Non;Tram, habitat dense et quartier du Tonkin;Oui;;23;69266
+4.85846417543021;45.7602630058938;0;3001;Part-Dieu / Vivier Merle;Place Béraudier;derrière la station tram;Lyon 3 ème;1;40;Non;gare;Oui;;24;69383
+4.83628897294204;45.7607097863131;0;2015;Place de la République;1, Rue Stella;;Lyon 2 ème;15;27;Non;commerces, parking;Oui;;25;69382
+4.82214287043961;45.7444223014223;0;2028;Sainte Blandine;Cours Charlemagne;face station tram Ste Blandine;Lyon 2 ème;28;16;Non;tram;Oui;;26;69382
+4.82989232819922;45.7546761673686;0;2023;Hugo / Ste Hélène;Rue Sainte Hélène;Entre rue Victor Hugi et rue d'Auvergne;Lyon 2 ème;23;20;Non;commerces;Oui;;27;69382
+4.83320595563798;45.7620553014781;0;2025;Mercière / Ferrandière;Rue Ferrandière;Angle rue de Brest;Lyon 2 ème;25;10;Non;restaurants de la rue Mercière, commerces;Oui;;28;69382
+4.85632678135882;45.7729113974483;0;6003;Avenue Verguin;Avenue de Verguin;devant l'entrée du parc;Lyon 6 ème;3;20;Non;Parc de la Tête d'Or, lycée du Parc;Oui;;29;69386
+4.82736282617114;45.7662574761217;0;5005;Saint Paul;Place Saint-Paul;;Lyon 5 ème;5;23;Non;gare, coeur quartier, Vieux Lyon;Oui;;30;69385
+4.83595992507683;45.7621899823468;0;2017;République / Ferrandière;Rue de la Ferrandière;rue de la République;Lyon 2 ème;17;15;Non;métro A, commerces;Oui;;31;69382
+4.83445094477756;45.7776153014649;0;4005;Place Bertone;Rue du Chariot d'Or;Place Bertone;Lyon 4 ème;5;12;Oui;coeur quartier;Oui;;32;69384
+4.82656505039726;45.7604837438978;0;5004;Saint Jean;Rue Saint-Jean;entre entrée de la Cathédrale et le métro;Lyon 5 ème;4;29;Non;funiculaire, coeur quartier, Vieux Lyon;Oui;;33;69385
+4.84806584610847;45.7596542197415;0;3004;Bourse du travail;Rue de la Part-Dieu;face Place Voltaire;Lyon 3 ème;4;20;Non;métro B, coeur quartier;Oui;;34;69383
+4.84653860951144;45.758825249533;0;3088;Place Guichard;5, Rue Moncey;;Lyon 3 ème;88;16;Non;Métro, tram, palais justice, bourse du travail;Oui;;35;69383
+4.84451590396715;45.7599305258836;0;3031;Corneille / Servient;Rue Corneille;Angle Corneille / Servient;Lyon 3 ème;31;13;Non;tram;Oui;;36;69383
+4.82166179835163;45.7520011769433;0;5015;Fulchiron;4, Quai Fulchiron;;Lyon 5 ème;15;19;Non;maillage;Oui;;37;69385
+4.85348079711666;45.7571028581682;0;3037;Paul Bert / Garibaldi;Rue Paul Bert;Face place des Martyrs de la Résistance;Lyon 3 ème;37;20;Non;maillage (piscine Garibaldi);Oui;;38;69383
+4.83578224398948;45.7598697352136;0;2035;Childebert/Rivière;Rue Marcel Gabriel Rivière;;Lyon 2 ème;35;27;Non;Commerces, hôtel Dieu, place, Parking;Non;;39;69382
+4.84476493884258;45.7688513697594;0;6004;Foch;Cours Franklin Roosevelt;Angle rue Vendôme;Lyon 6 ème;4;20;Non;métro A, coeur quartier;Oui;;40;69386
+4.82353267323631;45.7455815521805;0;2006;Place de l'Hippodrome;Place de l'Hippodrome;Angle cours Charlemagne;Lyon 2 ème;6;14;Non;coeur quartier;Oui;;41;69382
+4.81313495281075;45.7579063089064;0;5007;Place de Trion;Place de Trion;Angle rue de Trion et place de Trion;Lyon 5 ème;7;16;Oui;Place de Trion, St Just, commerces;Oui;;42;69385
+4.8557101486888;45.752592143714;0;3039;Place Bir Hakeim;Place Bir Hakeim;Au niveau rue Duvivier;Lyon 3 ème;39;13;Non;maillage;Oui;;43;69383
+4.88728572321929;45.7495170788471;0;3012;Place du Château;Place du Château;A côté de l'Eglise;Lyon 3 ème;12;25;Non;coeur de quartier;Oui;;44;69383
+4.82689094467313;45.7512303840984;0;2022;Place Carnot;Place Carnot;angle rue Général Plessier;Lyon 2 ème;22;30;Non;Place Carnot;Oui;;45;69382
+4.85893496499598;45.757330738679;0;3038;Vivier Merle / Part-Dieu;65, Boulevard Vivier Merle;angle rue Paul Bert;Lyon 3 ème;38;40;Non;CAFAL;Oui;;46;69383
+4.89672370709135;45.7691801944572;0;10049;Préssensé;294, Rue Francis de Préssensé;;VILLEURBANNE;49;16;Non;itinéraires cyclables;Oui;;47;69266
+4.82776522186418;45.7742004407;0;4002;Mairie du 4e;Boulevard de la Croix Rousse;devant la mairie du 4ème;Lyon 4 ème;2;20;Oui;mairie;Oui;;48;69384
+4.83470728245108;45.7797251519676;0;4003;Place Cdt Arnaud;Place Commandant Arnaud;angle rue Belfort;Lyon 4 ème;3;17;Oui;coeur quartier;Oui;;49;69384
+4.82127926255568;45.7733105053725;0;4006;Philippe de Lassalle;Rue Philippe de Lassalle;angle rue Anselme;Lyon 4 ème;6;22;Oui;IUFM;Oui;;50;69384
+4.82024492913168;45.7792901059158;0;4007;Place Flammarion;Place Flammarion;côté rue Philippe de Lassalle;Lyon 4 ème;7;18;Oui;maillage;Oui;;51;69384
+4.88058491112699;45.7692120735822;0;10011;Gratte-Ciel;rue Branly;;VILLEURBANNE;11;16;Non;métro A, itinéraire cyclable;Oui;;52;69266
+4.9011328928203;45.7650422669277;0;10013;Cusset;Rue Pierre Voyant;;VILLEURBANNE;13;20;Non;métro A, centre quartier;Oui;;53;69266
+4.88073777969174;45.7617163505222;0;10018;Tolstoï / Florian;Rue Florian;Angle cours Tolstoï;VILLEURBANNE;18;11;Non;itinéraire cyclable;Oui;;54;69266
+4.87396620986898;45.7675343020076;0;10028;Ecole de musique;Cours de la République;Angle Anatole France;VILLEURBANNE;28;24;Non;Conservatoire (A. France = itinéraire cyclable);Oui;;55;69266
+4.88712372005919;45.7680704202146;0;10012;Zola / France;Rue de France;Angle cours Emile Zola;VILLEURBANNE;12;16;Non;IUT maison des sports, maison de l'image, centre culturel;Oui;;56;69266
+4.86026581633304;45.7314687851879;0;8042;Francis de Pressenssé;Avenue Francis de Pressenssé;;Lyon 8 ème;38;22;Non;Quartier d'habitation;Oui;;57;69388
+4.85024742721997;45.7530043530221;0;3029;Place Aristide Briand;Rue Duguesclin;Angle Gambetta;Lyon 3 ème;29;23;Non;itinéraires cyclables;Oui;;58;69383
+4.79662676491689;45.759797191694;0;5044;Champvert;Rue Edmond Locard;;Lyon 5 ème;44;20;Oui;Bibliothèque, jardin public;Oui;;59;69385
+4.78877412110312;45.750481483431;0;5045;Valdo / Rivet;Rue Jeunet;;Lyon 5 ème;45;18;Oui;Maillage;Oui;;60;69385
+4.79271430810799;45.7638977674248;0;5054;Champvert;192 avenue Barthélémy Buyer;;Lyon 5 ème;54;18;Oui;Centre social, marché;Oui;;61;69385
+4.80761289327132;45.771005567626;0;9040;Place Rhodiaceta;53 rue Chapeau Rouge;;Lyon 9 ème;40;12;Non;ANPE, bureaux, enseignement secondaire;Oui;;62;69389
+4.80515800301495;45.7701340720176;0;9049;Sergent Berthet / Gorge de Loup;6 rue Gorge de Loup;;Lyon 9 ème;49;16;Non;Commerces, coeur de quartier;Oui;;63;69389
+4.86715309709659;45.7707467009802;0;10046;Charmettes / Zola;Rue des Charmettes;Angle cours Emile Zola;VILLEURBANNE;46;24;Non;maillage, arrêt C3 ?;Oui;;64;69266
+4.79971495826679;45.7760919647711;0;9043;Marietton ouest;78 rue Marietton;;Lyon 9 ème;43;20;Non;Maillage;Non;;65;69389
+4.80090048324114;45.7704769200646;0;9044;Masset / St Pierre de Vaise;86 rue St Pierre de Vaise;;Lyon 9 ème;44;16;Non;Activités, maillage;Oui;;66;69389
+4.79654028918423;45.770941031065;0;9010;Piscine de Vaise;En face du 51 rue Sidoine Appolinaire;;Lyon 9 ème;10;19;Non;Piscine;Oui;;67;69389
+4.80306139722826;45.7617986194848;0;5055;Buyer / Apollinaire;111 av. Barthélémy Buyer;;Lyon 5 ème;55;22;Oui;Centre commercial;Oui;;68;69385
+4.80564028018344;45.7673562652624;0;9033;Gorge de Loup;Devant 49 bis esplanade Lima Cretet;;Lyon 9 ème;33;40;Non;Lycée professionnel;Oui;;69;69389
+4.84519252016435;45.7502638736915;0;7053;Jaurès / Thibaudière;27 rue de la Thibaudière;;Lyon 7 ème;53;18;Non;Maillage;Oui;;70;69387
+4.87269682370274;45.7352063234863;0;8004;Mairie 8e;avenue Mermoz;devant la mairie du 8ème;Lyon 8 ème;4;21;Non;Mairie du 8e;Oui;;71;69388
+4.8715895663215;45.7453344566132;0;8002;Place Ambroise Courtois;Place Ambroise Courtois;Face au cours A. Thomas;Lyon 8 ème;2;20;Non;Métro D, Institut Lumière, Place et avenue des frères Lumière;Oui;;72;69388
+4.87762123928819;45.7282814065156;0;8021;Paul Santy;avenue paul santy;;Lyon 8 ème;21;16;Non;itinéraire cyclable;Oui;;73;69388
+4.86099377367911;45.7444606289943;0;8025;Dumont / Jouvet;rue santos-dumont;;Lyon 8 ème;25;17;Non;maillage;Oui;;74;69388
+4.85228601094152;45.738741092342;0;8039;Pierre Delore;Rue Pierre Delore;;Lyon 8 ème;39;20;Non;Habitat;Oui;;75;69388
+4.87687992444367;45.7821896441246;0;10002;INSA;Avenue Albert Einstein;au niveau du virage de l'avenue;VILLEURBANNE;2;40;Non;INSA, tram, itinéraires cyclables;Oui;;76;69266
+4.87314108788078;45.7636407030235;0;10025;Totem;Cours Tolstoi;;VILLEURBANNE;25;20;Non;Centre Quartier;Non;;77;69266
+4.85952335379158;45.7767057578019;0;10054;Stalingrad / Meliès;rue meliès;;VILLEURBANNE;54;24;Non;centre de congrès, bureaux;Oui;;78;69266
+4.8719521951028;45.7791121885925;0;10056;11 novembre / Gaston Berger;Avenue du 11 novembre 1918;Angle Avenue Gaston Berger;VILLEURBANNE;56;35;Non;resto U, associations, logements étudiants, iti. Cyclable;Oui;;79;69266
+4.89215042623492;45.7671263864269;0;10058;métro Flachet;cours Emile Zola;;VILLEURBANNE;58;22;Non;métro A;Oui;;80;69266
+4.89645432932126;45.7615596406929;0;10071;Lycée Marie Curie;64 bd Eugène Réguillon;;VILLEURBANNE;71;20;Non;lycée, quartier;Oui;;81;69266
+4.80737276926982;45.7547981963809;0;5030;Charcot / Résidence universitaire;Rue Cdt Charcot;Angle Fort St Irénée/rue Cdt Charcot;Lyon 5 ème;30;32;Oui;Résidence universitaire, marché;Oui;;82;69385
+4.81272720953072;45.7554367590946;0;5008;Sainte Irénée;Place Sainte Irénée;;Lyon 5 ème;8;20;Oui;Place, résidence universitaire;Oui;;83;69385
+4.87295938886729;45.7707838400684;0;10061;République;105, cours Emile Zola;;VILLEURBANNE;61;18;Non;métro;Oui;;84;69266
+4.87246226205668;45.7615354261746;0;10073;Institut d'Art contemporain;Rue Docteur Dolard;Angle rue 4 septembre;VILLEURBANNE;73;15;Non;Nouveau Musée D'Art Contemporain;Oui;;85;69266
+4.87694841471154;45.7700480878179;0;10074;Zola / Passage Rey;Cours E. Zola;Angle passage Rey;VILLEURBANNE;74;19;Non;Salle de gym des Gratte-Ciel, centre-ville;Oui;;86;69266
+4.83014467707224;45.7594698848217;0;2036;Place A.Gourju;Place Gorjus;;Lyon 2 ème;36;20;Non;Commerces, place Bellecour,;Oui;;87;69382
+4.81931449775085;45.756082553797;0;5053;St Just;16 rue des Fargues;;Lyon 5 ème;53;18;Oui;Coeur de quartier, commerces, jardin public, lycée;Oui;;88;69385
+4.82473448931599;45.7518482427555;0;2042;Joffre / Vaubecour;43 rue Vaubecour;;Lyon 2 ème;42;20;Non;Centre-ville, entrée zone 30;Oui;;89;69382
+4.80445892719369;45.7534421942217;0;5047;Albéric Pont;Albéric Pont;;Lyon 5 ème;47;16;Oui;Gymnase, Terrain de sports, collège;Oui;;90;69385
+4.88561275425414;45.7583893829182;0;10063;Perrin / Jean Jaurès;face au n°9 rue Jean Jaures;;VILLEURBANNE;63;34;Non;quartier Grandclément;Oui;;91;69266
+4.88987302180383;45.7597257399257;0;10021;GrandClément;Place GrandClément;;VILLEURBANNE;21;19;Non;centre quartier, futur arrêt C3, itinéraire cyclable;Non;;92;69266
+4.86728334680193;45.7467702121095;0;8038;Albert Thomas / Villon;cours Albert Thomas;angle rue Villon;Lyon 8 ème;38;20;Non;bureaux, itinéraire cyclable;Oui;;93;69388
+4.8244878801967;45.7377520986814;0;7045;Parc des Berges;40 avenue Leclerc;;Lyon 7 ème;45;20;Non;Accès berges, parc, itinéraire cyclable;Oui;;94;69387
+4.85683338586512;45.7662960771169;0;6045;Brotteaux / Vauban;44 bd des Brotteaux;;Lyon 6 ème;45;15;Non;Commerces, maillage;Oui;;95;69386
+4.85159792893307;45.7477270248659;0;7062;Garibaldi / Domer;Rue Garibaldi;;Lyon 7 ème;62;19;Non;Lycée Professionnel, CROUS;Oui;;96;69387
+4.8568128186712;45.7357952320593;0;8056;Delore / Audibert & Lavirotte;69 rue Audibert & Lavirotte;;Lyon 8 ème;56;20;Non;Maillage;Oui;;97;69388
+4.87418528175002;45.7403016013987;0;8015;Bd Jean XXIII;25 rue Maryse Bastié;;Lyon 8 ème;15;16;Non;Tramway, habitations;Oui;;98;69388
+4.83545738244912;45.7346818429149;0;7057;Jaurès / Bollier;219 avenue Jean Jaurès;;Lyon 7 ème;57;24;Non;ENS Lettres, commerces;Oui;;99;69387
+4.82771915596122;45.7356738897812;0;7007;Farge / Ayasse;117 boulevard Yves Farge;;Lyon 7 ème;52;20;Non;Centre commercial, logements, itinéraire cyclable;Oui;;100;69387
+4.84785882965487;45.7453992340993;0;7064;CROUS;Rue Chevreul;;Lyon 7 ème;64;17;Non;Crous;Oui;;101;69387
+4.83007978876956;45.7692658462513;0;1003;Place Sathonay;4, Place Sathonay;;Lyon 1 er;3;15;Non;;Oui;;102;69381
+4.8321092446089;45.7402591901399;0;7018;Lycée Louise Labé;Rue Rivet;;Lyon 7 ème;18;20;Non;Lycée, QGF, projet cyclable;Oui;;103;69387
+4.84069536038571;45.7557568966743;0;7056;Place Raspail;3 rue Cavenne;;Lyon 7 ème;56;22;Non;Commerces, quartier, point nodal (Guillotière, 7e,;Oui;;104;69387
+4.83335384395724;45.7534549142114;0;2012;Gailleton;4 place Gailleton;;Lyon 2 ème;12;16;Non;;Oui;;105;69382
+4.84323794810386;45.7485428567164;0;7061;Jaurès / Université;53 rue de l'Université;;Lyon 7 ème;61;20;Non;Coeur de quartier, commerces;Oui;;106;69387
+4.86351759043934;45.7278885457128;0;8008;Beauvisage / Préssensé;rue professeur beauvisage;;Lyon 8 ème;8;10;Non;itinéraires cyclables;Oui;;107;69388
+4.88349957514267;45.7807198477544;0;10031;Croix Luizet;Face 158, Avenue Roger Salengro;;VILLEURBANNE;31;22;Non;Centre quartier;Oui;;108;69266
+4.83110736608632;45.7659494939436;0;1016;Pêcherie;6 rue de la Platière;angle quai de la Pêcherie;Lyon 1 er;16;17;Non;bouquinistes;Oui;;109;69381
+4.85520085642282;45.7572612599252;0;3084;Desaix;128 rue Paul Bert;;Lyon 3 ème;84;28;Non;;Oui;;110;69383
+4.87162917814437;45.7762517515065;0;10120;Salengro / Descartes;39 rue Roger Salengro;;VILLEURBANNE;120;15;Non;Maillage;Oui;;111;69266
+4.86508416387106;45.7663703493176;0;6044;Charmettes / Bellecombe;26 rue de la Viabert;;Lyon 6 ème;44;16;Non;CIL Bellecombe, hôpital des Charmettes, ND de Bell;Oui;;112;69386
+4.89708592411878;45.7840513436847;0;10122;Verdun / Desgrand;13 rue de Verdun;;VILLEURBANNE;122;21;Non;Maillage;Oui;;113;69266
+4.84840533316879;45.7566992681841;0;3018;Créqui / Voltaire;rue de Créqui;angle place Voltaire;Lyon 3 ème;18;30;Non;Coeur de quartier;Oui;;114;69383
+4.86861112487018;45.7625856646185;0;3101;Patinoire Baraban;Face 34 rue Baraban;;Lyon 3 ème;101;20;Non;Patinoire, activités;Oui;;115;69383
+4.87905957666225;45.7719249686766;0;10121;Parc du Centre;34 rue Billon;;VILLEURBANNE;121;16;Non;Parc du centre, itinéraire cyclable;Oui;;116;69266
+4.89036956577188;45.7715577376675;0;10092;Montgolfier / Château Gaillard;135 rue Château Gaillard;;VILLEURBANNE;92;17;Non;Maillage;Oui;;117;69266
+4.85415212712752;45.7242705028889;0;8051;Hôpital St-Jean de Dieu;313 route de Vienne;;VENISSIEUX;51;20;Non;Hôpital Saint Jean de Dieu, logement colllectif;Oui;;118;69259
+4.8534202156019;45.7323603634356;0;8057;Vienne  / Montagny;184 route de Vienne;;Lyon 8 ème;57;20;Non;Maillage;Oui;;119;69388
+4.88958397628118;45.735346022546;0;8059;Laennec/Pinel;Rue Paradin;;Lyon 8 ème;59;18;Non;Jardin public;Oui;;120;69388
+4.89349978098059;45.7419202027106;0;3090;Vinatier;95 bd Pinel;;Lyon 3 ème;90;17;Non;Hôpital;Non;;121;69383
+4.8942587457506;45.7525429085337;0;3102;Dr Long / Aubépins;2, rue de la Caille;;Lyon 3 ème;102;16;Non;Maillage;Oui;;122;69383
+4.82108664154825;45.7583623960293;0;5050;Théâtre Romain;6 ue de l'Antiquaille;;Lyon 5 ème;50;12;Oui;Théâtre antique, lycée;Oui;;123;69385
+4.88482046365007;45.7512052508819;0;3079;Place Louise;4, Place Louise;;Lyon 3 ème;79;16;Non;Coeur de quartier, Parc Georges Bazin, maillage;Oui;;124;69383
+4.86820654517699;45.7408472643868;0;8054;Martinière Monplaisir;3, Rue Antoine Lumière;;Lyon 8 ème;54;20;Non;Lycée technique;Oui;;125;69388
+4.8706875747776;45.7458095692911;0;3008;Institut Lumière;Cours Albert Thomas;;Lyon 3 ème;8;18;Non;Métro, coeur quartier, institut Lumière, marché;Oui;;126;69383
+4.8914894327086;45.7557668546375;0;10113;Gare de Villeurbanne;52, Rue du Poizat;;VILLEURBANNE;113;22;Non;Tramway, maillage;Oui;;127;69266
+4.896957057546;45.7481832938432;0;3091;Hôpital Neurologique;59, Boulevard Pinel;;Lyon 3 ème;91;30;Non;Centre hospitalier, itinéraire cyclable;Oui;;128;69383
+4.87010596914173;45.7435720690503;0;8053;Lumière/Trouilhet;6, Rue Antoine Lumière;;Lyon 8 ème;53;16;Non;Poste, commerces;Oui;;129;69388
+4.86167388058994;45.7600550578148;0;3080;Part-Dieu / Villette;Rue de la Villette;;Lyon 3 ème;80;30;Non;Gare Part-Dieu;Oui;;130;69383
+4.85048625739127;45.7615189274364;0;3083;Les Halles;183, Rue André Philip;;Lyon 3 ème;83;18;Non;Commerces, coeur de quartier;Oui;;131;69383
+4.85873229454524;45.7601191127188;0;3002;Part-Dieu / Gare SNCF;Place Béraudier;;Lyon 3 ème;2;32;Non;Gare Part-Dieu, métro B, tram;Oui;;132;69383
+4.83043945355408;45.7582620430002;0;2002;Bellecour / St Exupéry;Place Bellecour;côté rue Lintier;Lyon 2 ème;2;20;Non;métro A D, site, commerces;Oui;;133;69382
+4.82713062819213;45.7240933491196;0;7020;Parc de Gerland;Allée Pierre de Coubertin;derrière le Palais des Sports Entrée du P;Lyon 7 ème;20;26;Non;Parc de Gerland, Palais des Sports;Oui;;134;69387
+4.8194888520227;45.7722848585226;0;1023;Croix Rousse / Perfetti;Boulevard de la Croix Rousse;;Lyon 1 er;23;20;Oui;IUFM, gymnase Jean Genety;Oui;;135;69381
+4.83463639280925;45.7579625159131;0;2001;Bellecour / République;Place Le Viste;angle rue des Maronniers;Lyon 2 ème;1;18;Non;métro A D, site, commerces;Oui;;136;69382
+4.85251059124107;45.7607767054813;0;3015;Servient / Garibaldi;Servient;Angle rue Garibaldi;Lyon 3 ème;15;17;Non;tram, cité administrative;Oui;;137;69383
+4.83293380868471;45.7668055276884;0;1020;Terreaux / Chenavard;11, Rue Chenavard;Côté place des Terreaux;Lyon 1 er;20;18;Non;Place des Terreaux;Oui;;138;69381
+4.82926950532075;45.7700015740911;0;1034;Carmélites;Montée des Carmélites;;Lyon 1 er;34;16;Non;;Oui;;139;69381
+4.88537719793287;45.741423112713;0;3024;Rockfeller / Esquirol;Avenue Rockefeller;Intersection Rockfeller/Esquirol;Lyon 3 ème;24;19;Non;tram, école d'infirmière, itinéraire cyclable;Oui;;140;69383
+4.80096231123926;45.7575651628799;0;5016;Mairie du 5e;Face 15, Rue Docteur Locard;devant la mairie du 5ème;Lyon 5 ème;16;13;Oui;mairie;Oui;;141;69385
+4.87863205916919;45.7332373891914;0;8024;Mermoz / Michelet;Avenue Mermoz;angle avenue Michelet;Lyon 8 ème;24;9;Non;Cité des Entreprises, itinéraire cyclable;Oui;;142;69388
+4.83213506219083;45.7677346863699;0;1001;Terreaux / Terme;Rue Terme;Angle rue d'Algérie;Lyon 1 er;1;16;Non;;Oui;;143;69381
+4.80035245952592;45.7734583979462;0;9020;Bourbonnais;41, Rue du Bourbonnais;angle rue Horand/rue Masset;Lyon 9 ème;20;12;Non;maillage;Oui;;144;69389
+4.88431892911373;45.7648217045186;0;10064;4 août 1789;Rue du 4 août 1789;Angle rue Rollet / Blanqui;VILLEURBANNE;64;10;Non;iti. Cyclable, associations sportives;Oui;;145;69266
+4.86711492199288;45.7764535731413;0;10055;Condorcet / Galline;Avenue Galline;Angle avenue de Condorcet;VILLEURBANNE;55;15;Non;maillage (habitat dense);Oui;;146;69266
+4.82763044255335;45.7796855001293;0;4004;Hénon;Boulevard des Canuts;angle rue Hénon;Lyon 4 ème;4;22;Oui;métro C, itinéraire cyclable;Oui;;147;69384
+4.88424151324261;45.7688763179067;0;10059;Anatole France / Zola;Anatole France;Angle Zola / France / Lherminier;VILLEURBANNE;59;13;Non;stade de la Viabert, Carrefour, iti. Cyclable;Oui;;148;69266
+4.87897574568985;45.7587882609002;0;10060;Saint Exupéry;Avenue Antoine de Saint-Exupéry fac;entre rue Richelieu et rue Florian;VILLEURBANNE;60;15;Non;Commerces, marché, centre de quartier;Oui;;149;69266
+4.85236527150248;45.7696721806905;0;6007;Masséna;Rue Tête d'Or;angle cours Vitton;Lyon 6 ème;7;20;Non;métro A;Oui;;150;69386
+4.86735270326526;45.7539660350662;0;3043;Place Rouget de L'Isle;Place Rouget de l'Isle;avenue Lacassagne;Lyon 3 ème;43;16;Non;maillage;Oui;;151;69383
+4.87734642987402;45.7559510292356;0;10024;Maisons Neuves;Place des Maisons Neuves;Côté rue Jean Jaurès;VILLEURBANNE;24;13;Non;centre quartier, itinéraire cyclable;Oui;;152;69266
+4.87602199223534;45.7495469577436;0;3086;Feuillat / Lacassagne;115 avenue Lacassagne;;Lyon 3 ème;86;16;Non;Maillage, stade;Oui;;153;69383
+4.89886566289764;45.7529723995868;0;10041;Kimmerling;41 rouet de Genas;;VILLEURBANNE;41;16;Non;Maillage, espace public;Oui;;154;69266
+4.83765826123897;45.7696044219961;0;1022;Place Tolozan;Place Tolozan;Angle nord-est de la place;Lyon 1 er;22;30;Non;Opéra, Métro A, métro C, mairie centrale;Oui;;155;69381
+4.82984412575203;45.7492533954914;0;2039;Charité / Récamier;86 rue de la Charité;;Lyon 2 ème;39;17;Non;Lycée, tramway, commerces;Oui;;156;69382
+4.83639168535633;45.7672004172203;0;1032;Pizay;17 rue Pizay;;Lyon 1 er;32;22;Non;;Oui;;157;69381
+4.82492586318928;45.7479214794689;0;2037;Place des Archives;18 rue Dugas montbel;;Lyon 2 ème;37;30;Non;;Oui;;158;69382
+4.86528578303152;45.7472487338215;0;8035;Sans Souci;Rue Edouard Rochet;;Lyon 8 ème;35;20;Non;Métro D, Institut Lumière, Place des frères Lumière;Oui;;159;69388
+4.84097162335524;45.7791985052923;0;4012;Place Adrien Godien;Place Adrien Godien;angle Montée de la Boucle;Lyon 4 ème;12;19;Non;maillage;Oui;;160;69384
+4.82049165189462;45.7774098919917;0;4014;Philippe de Lassalle / Pillement;Rue Philippe de Lassalle;angle rue Pillement;Lyon 4 ème;14;13;Oui;maillage;Oui;;161;69384
+4.83250103015313;45.7760630269016;0;4022;Place de la Croix-Rousse;Place de la Croix-Rousse;A proximité de la Grande Rue;Lyon 4 ème;22;21;Oui;Place de le Croix-Rousse, commerces, Métro;Oui;;162;69384
+4.83832009570619;45.7537580751361;0;7034;Piscine du Rhône;Quai Claude Bernard;;Lyon 7 ème;34;15;Non;Piscine du Rhône;Oui;;163;69387
+4.83428468409375;45.7670912565432;0;1021;Terreaux / Beaux Arts;8, Rue Président Edouard Herriot;;Lyon 1 er;21;11;Non;Palais des Beaux Arts;Oui;;164;69381
+4.83288970828215;45.7660886007657;0;1005;Meissonier;Place Meissonier;Angle sud-est de la place;Lyon 1 er;5;10;Non;maillage;Oui;;165;69381
+4.81894553443225;45.7333902949857;0;2020;Musée des Confluences;Pont Raymond Barre;Parvis du Musée des Confluences;Lyon 2 ème;20;20;Non;Musée des Confluences;Oui;;166;69382
+4.9044888457893;45.7804458217109;0;10119;Villeurbanne Saint Jean;2, Rue des Acacias;;VILLEURBANNE;119;12;Non;Collège Jean Vilar;Oui;;167;69266
+4.87599030566845;45.7483920031766;0;3050;Friche RVI;5 rue Félix Rollet;;Lyon 3 ème;50;20;;ancienne friche RVI;Non;Monté;168;69383
+4.82463490877529;45.769662873625;0;1024;Rouville;Place Rouville;;Lyon 1 er;24;17;Non;Lycée Diderot, clinique Saint Charles;Oui;;169;69381
+4.86308624982863;45.7606085556441;0;3104;;Rue Maurice Flandin;Place de Francfort;Lyon 3 ème;104;28;;Gare routière de Lyon Part-Dieu;Non;Monté;170;69383
+4.84052316511319;45.7485188802541;0;7024;Bancel / Chevreul;Rue Bancel;;Lyon 7 ème;24;16;Non;Itinéraire cyclable;Oui;;171;69387
+4.82622334799577;45.757874600776;0;5040;Place Crépu;127 quai Fulchiron;;Lyon 5 ème;40;20;Non;Vieux Lyon, Parking;Oui;;172;69385
+4.83207161138638;45.7599398325897;0;2013;Célestins;Place des Célestins;Côté nord de la place, vers l'ascenseur;Lyon 2 ème;13;22;Non;théâtre;Oui;;173;69382
+4.82019992203974;45.7665500379901;0;5041;L'Homme de la Roche;56, Quai Pierre Scize;;Lyon 5 ème;41;21;Non;Itinéraire cyclable, commerces, coeur de quartier;Oui;;174;69385
+4.88896457239721;45.7453145927334;0;3089;Trarieux / Lacassagne;221 avenue Lacassagne;;Lyon 3 ème;89;24;Non;Ecole d'infirmière;Oui;;175;69383
+4.88141900631866;45.7253335569204;0;8061;Stade Vuillermet;184 avenue Paul Santy;;Lyon 8 ème;61;18;Non;Stade, commerces;Oui;;176;69388
+4.83428785025813;45.7607457804815;0;2014;Jacobins;6 rue Jean de Tournes;;Lyon 2 ème;14;16;Non;Coeur quartier, commerces, site;Oui;;177;69382
+4.90566388974862;45.7540979307099;0;10115;Place d'Espagne / Stade Kruger;143, Avenue Paul Kruger;;VILLEURBANNE;115;22;Non;Stade;Oui;;178;69266
+4.89233360718211;45.7645636665294;0;10117;La Pérralière;171 rue Léon Blum;;VILLEURBANNE;117;22;Non;Centre de quartier, commerces;Oui;;179;69266
+4.83301108468594;45.7544732763091;0;2041;Sala/Charité;Rue Sala;;Lyon 2 ème;41;16;Non;Centre-ville;Oui;;180;69382
+4.91464300868463;45.7520997282193;0;10016;Place de la paix;10 place de la Paix;;VILLEURBANNE;16;17;Non;Maillage, espace public, centre quartier;Oui;;181;69266
+4.82762170447115;45.7682183165922;0;1013;Martinière;Rue de la Martinière;Au niveau de la place Saint Vincent;Lyon 1 er;13;11;Non;Maillage;Oui;;182;69381
+4.8142456674237;45.770389430222;0;1007;Conservatoire bis;1, Quai Joseph Gillet;;Lyon 1 er;1;22;Non;Conservatoire, logements;Non;;183;69381
+4.86313272236022;45.7702267691494;0;10006;Charpennes;Place Charles Hernu;;VILLEURBANNE;6;32;Non;métro A B, tram, centre quartier, itinéraire cyclable;Oui;;184;69266
+4.82964894792985;45.7530798612445;0;2038;Remparts d'Ainay;16 rue des Remparts d'Ainay;Angle Victor Hugo;Lyon 2 ème;38;16;Non;;Oui;;185;69382
+4.82063516798459;45.7925672653458;0;9041;Carret / Sédaillan;30 quai Paul Sédaillan;;Lyon 9 ème;41;18;Non;Activités, logement, maillage;Oui;;186;69389
+4.82908444349794;45.7973912412806;0;9008;L'Ile Barbe;3 quai Paul Sédallian;;Lyon 9 ème;8;16;Non;Mairie annexe, Ile Barbe, coeur quartier, Poste, commerces;Oui;;187;69389
+4.82060004612759;45.7817001067679;0;4042;Grégory Coupet;79, rue Philippe De Lassalle;;Lyon 4 ème;42;16;Oui;Stade;Oui;;188;69384
+4.91080670866867;45.7579070732361;0;10114;Bel Air / Les Brosses;Avenue de Bel Air;;VILLEURBANNE;114;20;Non;Tramway, piste cyclable;Oui;;189;69266
+4.83281500876046;45.7743716157555;0;1036;Aveyron;44 Bd de la Croix Rousse;;Lyon 1 er;36;17;Oui;Ecole, renforcement 4022;Oui;;190;69381
+4.83506254529141;45.7755023590486;0;4041;Boussange / Austerlitz;17 rue d'Austerlitz;;Lyon 4 ème;41;18;Oui;Renforcement 4022, commerces;Oui;;191;69384
+4.83791179292647;45.7722014692572;0;1035;Quai Lassagne;3 quai André Lassagne;;Lyon 1 er;35;16;Non;Maillage;Oui;;192;69381
+4.85561542792082;45.7848557405431;0;6042;Cité Internationale / Résidence hôtelière;Allée Achille Lignon;;Lyon 6 ème;42;28;Non;Amphithéâtre, bureaux, résidence hôtelière;Oui;;193;69386
+4.85963914713868;45.7846110498866;0;6041;Cité Internationale / Tête d'Or nord;Allée Achille Lignon;;Lyon 6 ème;41;22;Non;Parc, Amphithéâtre;Oui;;194;69386
+4.85907055673834;45.7684122613765;0;6008;Place Jules Ferry;17 place Jules Ferry;;Lyon 6 ème;8;20;Non;Métro, parking, place, restaurants;Oui;;195;69386
+4.86149658594011;45.7577645564235;0;3094;Villette;74 rue de la Villette;;Lyon 3 ème;94;30;Non;Etablissements publics, bureaux;Oui;;196;69383
+4.86544165919535;45.7569549747275;0;3099;Place Sainte Anne;2 place Saint Anne;;Lyon 3 ème;99;18;Non;Coeur de quartier, commerces;Oui;;197;69383
+4.8687997143612;45.7528170009403;0;3100;Sisley / Dauphiné;4 rue Paul Sisley;;Lyon 3 ème;100;17;Non;Jardin public, tramway;Oui;;198;69383
+4.86209227820075;45.7659879833824;0;6016;Viabert / Thiers;Rue de la Viabert;angle avenue Thiers;Lyon 6 ème;16;16;Non;tram, itinéraire cyclable;Oui;;199;69386
+4.8437425783907;45.7637499956122;0;6031;Lafayette / Corneille;Rue Corneille;angle rue Lafayette;Lyon 6 ème;31;13;Non;maillage;Oui;;200;69386
+4.85294425479412;45.7495553441339;0;7038;Place Stalingard;;;Lyon 7 ème;38;13;Non;maillage;Oui;;201;69387
+4.78820051195654;45.7546470827688;0;5031;Ménival / J. Curie;Rue Joliot Curie;;Lyon 5 ème;31;20;Oui;Maillage;Oui;;202;69385
+4.86839504019714;45.7578296698746;0;3085;Sacré Coeur;rue Charial;;Lyon 3 ème;85;16;Non;Gymnase, piscine, lycée, jardin public, sacré coeur;Oui;;203;69383
+4.8178899295525;45.7754224668985;0;4025;Chazière;25, Rue Chazière;;Lyon 4 ème;25;20;Oui;Parc Cerisaie, habitations;Oui;;204;69384
+4.81981665742037;45.7678957694769;0;1006;Subsistances;14 quai Saint Vincent;;Lyon 1 er;6;22;Non;Les Subsistances;Oui;;205;69381
+4.83391613003068;45.7316777209813;0;7005;Debourg;259 av. Jean Jaurès;Angle avenue Debourg;Lyon 7 ème;5;20;Non;Métro B, ENS lettres, bibliothèque;Oui;;206;69387
+4.81856028667253;45.7881700188237;0;4024;Lyon Métropole;Face au 84, quai Joseph Gillet;150 mètres au sud de la rue du Bois de la Caille;Lyon 4 ème;24;25;Non;;Oui;;207;69384
+4.8598633397749;45.7537994582273;0;3036;Félix Faure / Vivier Merle;Face au 106 avenue Félix Faure;;Lyon 3 ème;36;35;Non;;Oui;;208;69383
+4.81069860664111;45.7781720674197;0;4023;Pont Mazaryk;Face 45, Quai Joseph Gillet;;Lyon 4 ème;23;22;Non;;Oui;;209;69384
+4.82805150135516;45.7500996433261;0;2004;Perrache / Carnot;Place Carnot;Coté Sud/Est de la Place en face N°16;Lyon 2 ème;4;18;Non;;Oui;;210;69382
+4.85118994206162;45.7459623999943;0;7052;Parc Blandan;Rue du Repos (entrée parc Blandan);;Lyon 7 ème;25;25;Non;Parc Sergent Blandan;Oui;;211;69387
+4.82359702396374;45.791670182604;0;11003;La Rochette;Place de la Rochette;;CALUIRE-ET-CUIRE;3;20;Non;;Oui;;212;69034
+4.8134162571604;45.7746311098017;0;4026;Birmingham;Avenue de Birmingham;;Lyon 4 ème;26;20;Non;;Oui;;213;69384
+4.86346591659575;45.7542631708599;0;3066;Kimmerling / Faure;139 avenue Faure;;Lyon 3 ème;66;20;Non;Bureaux, habitat, collège;Oui;;214;69383
+4.85754639852135;45.7548339947211;0;3103;Place Danton;4 place Danton;;Lyon 3 ème;103;18;Non;Commerces, bureau;Oui;;215;69383
+4.84510859535539;45.7576229228584;0;3082;Place Bahadourian;164 rue Corneille;;Lyon 3 ème;82;18;Non;Coeur de quartier, DDE;Oui;;216;69383
+4.90621033310645;45.7606109098072;0;10116;Blum / Faÿs;171 rue Léon Blum;;VILLEURBANNE;116;17;Non;Square, commerces, lycée technique;Non;;217;69266
+4.9005991607434;45.767153312728;0;10118;Voyant / Chambord;92 rue Voyant;;VILLEURBANNE;118;22;Non;Commerces, centre social;Oui;;218;69266
+4.84636322005333;45.7525730643619;0;7008;Jean Jaurès / Guillotière;avenue Jean Jaurès;angle rue de la Guillotière;Lyon 7 ème;8;10;Non;maillage;Oui;;219;69387
+4.87424491377513;45.731756154042;0;8060;Santy / Beauvisage;9 rue Pierre Verger;;Lyon 8 ème;60;22;Non;Maillage;Oui;;220;69388
+4.86225781965823;45.7703330438207;0;10111;Charles Hernu;95, Cours Vitton;;VILLEURBANNE;111;16;Non;Métro, Tram;Oui;;221;69266
+4.79916034097263;45.7893151875845;0;9052;Balmont;332 bd de Balmont;;Lyon 9 ème;52;12;Oui;Commerces;Oui;;222;69389
+4.87127311041049;45.7835136793199;0;10084;Doua / Avenue des Arts;2, Avenue des Arts;;VILLEURBANNE;84;30;Non;Campus de la Doua;Oui;;223;69266
+4.87740423257663;45.7844851872384;0;10103;DOUA / Rue des sports;Rue des Arts;;VILLEURBANNE;103;30;Non;Tennis, stade, piscine;Oui;;224;69266
+4.87132691289157;45.780944479741;0;10102;DOUA / Gaston Berger;Avenue Gaston Berger;;VILLEURBANNE;102;30;Non;Tramway, itinéraires cyclabels, amphis;Oui;;225;69266
+4.8824104015349;45.7856324623545;0;10001;IUT/ Feyssine;Rue de la Technologie;;VILLEURBANNE;1;30;Non;IUT, tramway;Oui;;226;69266
+4.88028987133402;45.7754259915471;0;10080;Vaillant/Perroncel;Rue Alexis Perroncel;;VILLEURBANNE;80;17;Non;Maillage, itinéraire cyclable;Oui;;227;69266
+4.88534891893802;45.7544402430766;0;10112;Place de la Reconnaissance;109 route de Genas;;VILLEURBANNE;112;32;Non;MJC, espace public, maillage;Oui;;228;69266
+4.90069696832092;45.7606037573682;0;10087;Baratin;76 rue Pierre Baratin;;VILLEURBANNE;87;12;Non;Terrain de sport, quartier;Oui;;229;69266
+4.89870314279624;45.7660587436589;0;10088;4 août 1789 / Pressensé;243, Cours Emile Zola;;VILLEURBANNE;88;19;Non;maillage;Oui;;230;69266
+4.88424428577284;45.7778649152536;0;10083;Château Gaillard / Bienvenus;Face 31, Rue des Bienvenus;;VILLEURBANNE;83;15;Non;;Oui;;231;69266
+4.90047953036513;45.7631587956906;0;10035;Boiron Grangé;angle rue Baratin/rue réguillon;;VILLEURBANNE;35;16;Non;stade, complexe sportif Boiron Grangé;Oui;;232;69266
+4.87433130874712;45.7794737729051;0;10101;Einstein / 11 novembre 1918;Bd 11 nov 1918;;VILLEURBANNE;101;34;Non;résidence étudiante, maillage;Oui;;233;69266
+4.84201296191759;45.7467590796927;0;7055;Servant / Jaboulay;30 rue Renan;;Lyon 7 ème;55;16;Non;Métro B, future halte TER, coeur quartier, mairie;Oui;;234;69387
+4.90981821970444;45.7651240553554;0;10014;Gare Laurent Bonnevay;Rue du Sytral;;VILLEURBANNE;14;29;Non;Gare, métro;Oui;;235;69266
+4.88803874087978;45.7747507993117;0;10091;Château Gaillard / Fort;rue louis fort;;VILLEURBANNE;91;16;Non;maillage;Oui;;236;69266
+4.87405232669433;45.7744984646734;0;10089;Colin /Ottavi;22, Rue colin;;VILLEURBANNE;89;15;Non;Commerces, Itinéraire Cyclable;Oui;;237;69266
+4.79561061526967;45.7496868148719;0;5036;La Salette;Rue Commandant Charcot;;Lyon 5 ème;36;15;Oui;Habitations, commerces;Oui;;238;69385
+4.86290216902877;45.779408313608;0;10053;Rossellini / 11 Novembre;29, Boulevard du 11 Novembre 1918;;VILLEURBANNE;53;20;Non;BRGM, ENSSIB;Oui;;239;69266
+4.88270812074218;45.7595776564179;0;10110;Mémoire & Société;Rue Hauy;;VILLEURBANNE;110;18;Non;Mémoire et société, itinéraire cyclable;Oui;;240;69266
+4.92060394568861;45.7608131946829;0;12001;La Soie;Rue de la Poudrette;;VAULX-EN-VELIN;1;25;Non;Pôle multimodal de la Soie;Oui;;241;69256
+4.80950447440039;45.7738337453507;0;9032;Place Port Mouton;Place Port Mouton;Quai Arloing;Lyon 9 ème;32;18;Non;;Oui;;242;69389
+4.84049913754249;45.7571997023265;0;3097;Augagneur / Fosse aux Ours;28 quai Augagneur;;Lyon 3 ème;97;16;Non;Commerces, quartier, point nodal (Guillotière, 7e,;Oui;;243;69383
+4.79707090233101;45.7865247393491;0;9051;Andréi Sakharov;301 avenue A.Sakharov;;Lyon 9 ème;51;12;Oui;Stade, lycée;Oui;;244;69389
+4.83425102400814;45.7432217977239;0;7030;Quartier Général Frère;31 boulevard Yves Farge;;Lyon 7 ème;30;30;Non;Parc d'activités, logement, projet cyclable;Oui;;245;69387
+4.852215476118;45.7847362580234;0;6043;Cité Internationale - Cinéma;80 Quai Charles de Gaulle;;Lyon 6 ème;43;32;Non;Cinémas, commerces;Oui;;246;69386
+4.83371342158913;45.7857755308468;0;11001;Gare de Cuire;2 rue Claude Baudrand;;CALUIRE-ET-CUIRE;1;18;Oui;Métro, centre quartier;Oui;;247;69034
+4.84830364350925;45.7857298743381;0;11002;Saint Clair;49 cours Aristide Briand;;CALUIRE-ET-CUIRE;2;20;Non;Commerces, centre de quartier;Oui;;248;69034
+4.86514153673672;45.7322180106597;0;8029;Etats Unis / Lévigne;79 boulevard des Etats-Unis;Angle Lévigne / Etats-Unis;Lyon 8 ème;29;20;Non;Commerce, habitat, école, tramway T4;Oui;;249;69388
+4.85757303141421;45.7598976512354;0;3010;Part Dieu / Cuirassier;Rue des Cuirassiers;angle Rue Bouchut;Lyon 3 ème;10;59;Non;centre commercial, bibliothèque de la Part-Dieu;Non;;250;69383
+4.8595210870363;45.7399270587135;0;8010;Place Mendès France;93 av de l'Europe;;Lyon 8 ème;10;20;Non;Tramway, place, Commerces;Oui;;251;69388
+4.88808581013605;45.7404830910259;0;3071;BioParc;60 avenue Rockefeller;;Lyon 3 ème;71;20;Non;Pôle d'habitation, Bio Parc, Faculté de Médecine;Oui;;252;69383
+4.84030738862286;45.7398132348897;0;7031;Jaurès / Gerland;45 rue Gerland;;Lyon 7 ème;31;20;Non;Foyer étudiant, centre de formation;Oui;;253;69387
+4.85897382063673;45.7668552367471;0;6001;Gare des Brotteaux;Place Jules Ferry;;Lyon 6 ème;1;16;Non;Places Jules Ferry, Métro B, Parking, restaurants;Oui;;254;69386
+4.87967328130042;45.7783682080049;0;10008;Salengro / Vaillant;rue Roger salengro;;VILLEURBANNE;8;24;Non;centre quartier, itinéraire cyclable;Oui;;255;69266
+4.82355874268127;45.7279604510332;0;7049;Cité Scolaire Internationale;26, Avenue Tony Garnier;;Lyon 7 ème;49;25;Non;;Oui;;256;69387
+4.88926855741309;45.7536448445955;0;3013;Place Antoinette;Place Antoinette;Angle rue Antoinette et cours Richard;Lyon 3 ème;13;21;Non;coeur de quartier;Oui;;257;69383
+4.88688030871153;45.7381400560295;0;8003;Claude Bernard Lyon I;rue Guillaume Paradin;devant entrée de la fac;Lyon 8 ème;3;16;Non;faculté de médecine, métro;Oui;;258;69388
+4.91927578594737;45.7644003130588;0;12002;Poudrette la Soie;Face 2 rue de la Poudrette;;VAULX-EN-VELIN;70;20;Non;Centre commercial Carré de Soie;Oui;Monté;259;69256
+4.87083165476878;45.724716265505;0;8041;Etats-Unis / Viviani;170 boulevard des Etats-Unis angle avenue Viviani dir. vénissieux;;Lyon 8 ème;41;20;Non;;Oui;Monté;260;69388
+4.8191795184368;45.7405383152039;0;2005;Confluence Hôtel de Région;101, Cours Charlemagne;;Lyon 2 ème;5;32;Non;Hôtel de Région - Tram Montrochet - Pôle de loisirs;Oui;;261;69382
+4.85053697145967;45.7426537617283;0;7023;Berthelot / Route de Vienne;route de Vienne;angle avenue Berthelot;Lyon 7 ème;23;15;Non;tram;Oui;;262;69387
+4.81143304483125;45.7833410356924;0;9014;Quai du Commerce;12 quai Commerce;entre la rue Dupont et la rue bourget => centre;Lyon 9 ème;14;23;Non;itinéraires cyclables;Oui;;263;69389
+4.83475200471111;45.7494176952947;0;7033;St Luc / St Joseph;Quai Claude Bernard;Sur le quai haut;Lyon 7 ème;33;28;Non;Tramway, hôpital;Oui;;264;69387
+4.87813090555283;45.7386678839509;0;8058;Longefer / Kruger;10 rue Paul Kruger;;Lyon 8 ème;58;16;Non;Maillage;Oui;;265;69388
+4.86290448888407;45.7340324956484;0;8037;Cazeneuve;Rue Paul Cazeneuve;;Lyon 8 ème;37;19;Non;Quartier d'habitation;Oui;;266;69388
+4.8601437036179;45.7470967140947;0;8052;Clinique Montplaisir;2 avenue des Frères Lumière;;Lyon 8 ème;52;16;Non;Clinique, renforcement 8001;Oui;;267;69388
+4.80456661725123;45.7797436570845;0;9004;Gare de Vaise;rue du 24 Mars 1852;face entrée gare;Lyon 9 ème;4;22;Non;Gare, métro D;Oui;;268;69389
+4.84152208930028;45.7439256046218;0;7022;Jaurès / Lagrange;105 av. jean Jaurès;;Lyon 7 ème;22;30;Non;Piste cyclable, commerces;Oui;;269;69387
+4.79452530849956;45.7836371650548;0;9050;Allée de l'Europe;228 avenue du Plateau;;Lyon 9 ème;50;12;Oui;Commerces, poste, mairie, cpam, marché;Oui;;270;69389
+4.8550066229888;45.7629790120815;0;3003;Part Dieu / Deruelle;Boulevard Eugène Deruelle;Face rue Masséna, entrée centre commercia;Lyon 3 ème;3;20;Non;centre commercial;Oui;;271;69383
+4.85230976495791;45.7627413113399;0;3087;Part-Dieu / Garibaldi;4 Bd Eugène Deruelle;;Lyon 3 ème;87;20;Non;Centre Commercial, bureaux, renforcement 2-003;Oui;;272;69383
+4.86396149382557;45.7528916537812;0;3067;Hachette;Rue Jean Renoir;;Lyon 3 ème;67;15;Non;CES, logements;Oui;;273;69383
+4.85396375719057;45.7297266956309;0;8020;Moulin à Vent;Angle rue du Moulin à Vent / route de Vienne;;Lyon 8 ème;20;20;Non;Commerces, itinéraire cyclable, coeur de quartier;Non;;274;69388
+4.8626475813298;45.7762210147081;0;10004;Tonkin;Rue Salvador Allende;Angle avenue du Lys Orangé, au pied de la;VILLEURBANNE;4;10;Non;centre quartier, itinéraire cyclable;Oui;;275;69266
+4.81144121742037;45.786508444362;0;9042;Vaise Docks;En face du 50 rue des Docks;;Lyon 9 ème;42;19;Non;Complexe cinéma Pathé;Oui;Monté;276;69389
+4.81581631155686;45.7433919749566;0;2010;Confluence Darse;Allée Andrée Mure;;Lyon 2 ème;10;22;Non;;Oui;;277;69382
+4.89996521942795;45.7571560146472;0;10032;Primat / Decorps;Angle rue Emile Decorps / Rue Max Barel;;VILLEURBANNE;32;16;Non;Pôle Pixel;Oui;Monté;278;69266
+4.8150739633739;45.7396075027989;0;2009;Confluence Les Docks;Sur l'esplanade entre la rue Hrant Dink et le 40 quai Rambaud;;Lyon 2 ème;9;26;Non;Confluence - Les Docks;Oui;Monté;279;69382
+4.85792503006306;45.750253311906;0;3009;Musée Africain;133, 137 Cours Gambetta;;Lyon 3 ème;9;22;Non;Université Jean Moulin, musée africain, commerces;Oui;;280;69383
+4.82698432330627;45.7670444714525;0;5029;Place Gerson;Place Gerson;A proximité du Quai Pierre Size;Lyon 5 ème;29;20;Non;Vieux Lyon;Oui;;281;69385
+4.83407651541315;45.7587390821938;0;2024;République / Maupin;Rue Maupin;Entre Herriot et République;Lyon 2 ème;24;15;Non;commerces;Oui;;282;69382
+4.84105343076621;45.7619651301155;0;3044;Quai Augagneur;Quai Augagneur;Entre rue de Bonnel et rue Rabelais;Lyon 3 ème;44;19;Non;maillage (habitat dense);Oui;;283;69383
+4.82888968245804;45.7620370806927;0;5006;Quai Romain Rolland;Quai Romain Rolland;Face au Palais de Justice;Lyon 5 ème;6;17;Non;Vieux Lyon;Oui;;284;69385
+4.84804076774484;45.7510366647249;0;7039;Guillotière / Madeleine;Grande rue de la Guillotière;angle rue de la Madeleine;Lyon 7 ème;39;10;Non;maillage;Oui;;285;69387
+4.82894479885894;45.764685782659;0;5009;Place Fousseret;Quai Romain Rolland / angle quai de Bondy;Place Fousseret;Lyon 5 ème;9;16;Non;Vieux Lyon;Oui;;286;69385
+4.82837438013951;45.756808487617;0;2011;Sala / Rue du Plat;25 Rue du Plat;Face faculté catholique;Lyon 2 ème;11;15;Non;faculté catholique;Oui;;287;69382
+4.80704036653684;45.7785542406456;0;9022;Rue Masaryk / Saint Cyr;rue Masaryk;angle rue Chinard/rue de Saint Cyr;Lyon 9 ème;22;13;Non;maillage;Oui;;288;69389
+4.84488125913851;45.7773793166442;0;6002;Porte des Enfants du Rhône;Place Leclerc;Le long des grilles côté ouest de la port;Lyon 6 ème;2;29;Non;Parc de la Tête d'Or;Oui;;289;69386
+4.8355253578886;45.7640723503116;0;2030;République / Poulaillerie;20 rue de la Poulaillerie;Angle Poulaillerie / République;Lyon 2 ème;30;22;Non;commerces, palais de la bourse;Oui;;290;69382
+4.81530487624088;45.7571957535012;0;5001;Place Varillon (funiculaire St Just);Rue de Trion;;Lyon 5 ème;1;23;Oui;Métro Saint Just, habitations, commerces;Oui;;291;69385
+4.83384102171215;45.7567664047355;0;2008;Place Antonin Poncet;Place Antonin Poncet;Devant la librairie Privat;Lyon 2 ème;8;18;Non;métro A D, poste centrale, commerces;Oui;;292;69382
+4.79661217888942;45.7565273368784;0;5002;Place des Compagnons de la chanson;Place des Compagnons de la chanson;angle des Aqueducs;Lyon 5 ème;2;18;Oui;funiculaire, coeur quartier;Oui;;293;69385
+4.82779325589658;45.730080394459;0;7046;Place de l'Ecole;19 rue de Saint-Cloud;côté place de l'école;Lyon 7 ème;46;28;Non;ENS Science;Oui;;294;69387
+4.8254218239837;45.7759230179441;0;4009;Jacquart / Denfert-Rochereau;Rue Denfert-Rochereau;angle rue Jacquart;Lyon 4 ème;9;14;Oui;maillage;Oui;;295;69384
+4.842416784717;45.7693820661356;0;6022;Place Maréchal Lyautey;5-6, Place Maréchal Lyautey;;Lyon 6 ème;22;20;Non;;Oui;;296;69386
+4.82519257109699;45.7740460473114;0;4021;Tabareau;Rue Tabareau;angle boulevard de la Croix-Rousse;Lyon 4 ème;21;10;Oui;IUFM;Oui;;297;69384
+4.84473189285044;45.7657655924629;0;6005;Place Edgar Quinet;Place Edgar Quinet;Devant le lycée;Lyon 6 ème;5;20;Non;coeur quartier;Oui;;298;69386
+4.85388085612192;45.7588154948925;0;3058;Place du Lac;Place du Lac;face à la Poste;Lyon 3 ème;58;19;Non;;Oui;;299;69383
+4.86927824448366;45.7594730296359;0;3021;Place de la Ferrandière;Place de la Ferrandière;Intersection Ferrandière/Jasseron;Lyon 3 ème;21;20;Non;maillage;Non;;300;69383
+4.83539920228165;45.7593809563465;0;2026;République / Paufique;rue du Professeur Paufique;Angle rue de la République;Lyon 2 ème;26;39;Non;commerces;Non;;301;69382
+4.84222758702112;45.7593422663364;0;3016;Liberté / Part Dieu;Cours de la Liberté;angle rue de la Part-Dieu;Lyon 3 ème;16;18;Non;tram, commerces, itinéraire cyclable;Oui;;302;69383
+4.84804242610368;45.7537858652436;0;3005;Saxe-Gambetta;Place Victor Basch;;Lyon 3 ème;5;20;Non;métro B D;Oui;;303;69383
+4.87890312617537;45.743441684171;0;3007;Place d'Arsonval;Place d'Arsonval;A côté du stand de fleurs;Lyon 3 ème;7;32;Non;hôpital Herriot, métro D, tram, fac de pharmacie;Oui;;304;69383
+4.85558284913296;45.7511315804623;0;3053;Gambetta / Jusserand;Avenue Jules Jusserand;angle cours Gambetta;Lyon 3 ème;53;13;Non;bureaux, itinéraire cyclable;Oui;;305;69383
+4.84137796431903;45.7530098082402;0;7014;Marseille / Félissent;rue Félissent;angle rue de Marseille;Lyon 7 ème;14;15;Non;maillage;Oui;;306;69387
+4.84993054607575;45.7640576127189;0;6040;Les Halles;149 rue Boileau;;Lyon 6 ème;40;15;Non;;Oui;;307;69386
+4.80331174456567;45.777295537372;0;9006;Théâtre Nouvelle Génération;rue Tissot face 2;angle rue de Bourgogne;Lyon 9 ème;6;16;Non;maillage;Oui;;308;69389
+4.86154177936425;45.7485395662599;0;8001;Université Lyon III;5 au 7 rue du Professeur Rollet;Devant entrée principale université Lyon 3;Lyon 8 ème;1;26;Non;Université Lyon 3;Oui;;309;69388
+4.87973693061656;45.7413737377966;0;8030;Laënnec;rue Nungesser et Coli;angle avenue Laënnec;Lyon 8 ème;30;16;Non;fac, tram;Oui;;310;69388
+4.8437386077807;45.7548668914179;0;7001;Place Gabriel Péri;Place Gabriel Péri;En face du mur peint, devant la Poste;Lyon 7 ème;1;20;Non;métro D, tram, coeur quartier, commerces;Oui;;311;69387
+4.85253471280619;45.7518022143478;0;7003;Gambetta / Garibaldi;Cours Gambetta;Prolongement rue Rachais;Lyon 7 ème;3;30;Non;métro D;Oui;;312;69387
+4.83114568967281;45.7274890929546;0;7006;Gerland;Face 321, Avenue Jean Jaurès;Au niveau du square Galtier;Lyon 7 ème;6;40;Non;Métro B, Stade de Gerland;Oui;;313;69387
+4.84113933935133;45.7668296196243;0;6023;Quai Sarrail;Place Liautey;angle rue de Sèze;Lyon 6 ème;23;14;Non;Parc du Rhône;Oui;;314;69386
+4.85677966747709;45.770732560549;0;6024;Tronchet / Anatole France;Rue Tronchet;angle rue Anatole France;Lyon 6 ème;24;10;Non;Lycée du Parc, piscine Tronchet;Oui;;315;69386
+4.83604918965423;45.7473577623064;0;7010;Centre Berthelot;rue Pasteur;angle avenue Berthelot;Lyon 7 ème;10;20;Non;tram, cinéma;Oui;;316;69387
+4.8423789965279;45.7465250656669;0;7004;Mairie du 7ème;place Jean Macé;face à la Mairie;Lyon 7 ème;4;30;Non;métro B, tram, future halte TER, coeur quartier, mairie;Oui;;317;69387
+4.83813843834042;45.7298058652088;0;7021;Challemel Lacour / Gerland;rue de Gerland;angle rue Challemel Lacour;Lyon 7 ème;21;12;Non;maillage;Oui;;318;69387
+4.81437377940006;45.7873840849558;0;9013;Quai Paul Sédaillan;Quai Paul Sédallan;;Lyon 9 ème;13;20;Non;pôle d'activité (Cegid, Infogrammes);Oui;;319;69389
+4.83689574142056;45.7658113822041;0;1012;Ampère / Bourse;Rue de la Bourse;Long du Collège-Lycée Ampère;Lyon 1 er;12;20;Non;Lycée Ampère et rue de la Bourse, Métro A;Oui;;320;69381
+4.83174125171842;45.7680236126547;0;1031;Place de la Paix;Place de la Paix;En face de la poste;Lyon 1 er;31;20;Non;Opéra, métro A, mairie centrale;Oui;;321;69381
+4.8521404034164;45.7838816142831;0;6036;Musée d'art contemporain;Proximité Musée d'art contemporain;;Lyon 6 ème;36;23;Non;Cinémas, Cité internationale, Musée d'art contemporain, parc;Oui;;322;69386
+4.8534921297062;45.7643336975612;0;6028;Récamier / Tête d'Or;Rue Récamier;angle rue Tête d'Or;Lyon 6 ème;28;16;Non;maillage;Oui;;323;69386
+4.86828425933323;45.7297456005848;0;8006;Place 8 mai 1945;rue Professeur Beauvisage;angle avenue des Etats-Unis;Lyon 8 ème;6;20;Non;coeur quartier, itinéraires cyclables;Oui;;324;69388
+4.80781372226459;45.7730995725331;0;9029;Saint Pierre de Vaise;Place Vanderpol;angle rue St Pierre de Vaise;Lyon 9 ème;29;15;Non;coeur de quartier;Oui;;325;69389
+4.8328399154362;45.7814920298455;0;4011;Place Jean Ambre;Place Jean Ambre;Angle grande rue de la Croix Rousse;Lyon 4 ème;11;20;Oui;Théâtre, coeur quartier, hôpital;Oui;;326;69384
+4.82826728262269;45.7530437074095;0;2003;Place Ampère;rue Bourgelat;angle rue Henry 4;Lyon 2 ème;3;10;Non;métro A, coeur quartier, commerces;Oui;;327;69382
+4.80566601141478;45.7742408280788;0;9002;Mairie du 9e;rue du Bourbonnais;sur le côté de la mairie;Lyon 9 ème;2;22;Non;mairie, coeur quartier, métro D;Oui;;328;69389
+4.84448236134229;45.7466859287141;0;7041;Domer / Chevreul;rue Domer;angle rue Chevreuil;Lyon 7 ème;41;12;Non;MJC du 7e, itinéraire cyclable;Oui;;329;69387
+4.82947495889409;45.7760929786525;0;4017;Place des tapis;Boulevard des Canuts;angle boulevard de la Croix-Rousse;Lyon 4 ème;17;17;Oui;coeur de quartier;Oui;;330;69384
+4.85299655686574;45.7356139906482;0;8011;Place Lebret;Place Lebret;côté route de Vienne;Lyon 8 ème;11;14;Non;coeur quartier;Oui;;331;69388
+4.86750421313508;45.7742151784181;0;10007;Piaton / Condorcet;Avenue Piaton;Angle rue Condorcet;VILLEURBANNE;7;10;Non;centre quartier, itinéraire cyclable;Oui;;332;69266
+4.82969004216113;45.7295009904289;0;7012;Place des Pavillons;Place des Pavillons;Devant la Bibliothèque;Lyon 7 ème;12;13;Non;ENS Sciences, coeur quartier;Oui;;333;69387
+4.85999116099569;45.7797016132489;0;10005;Bd du 11 novembre;Boulevard du 11 novembre 1918;Entrée parc;VILLEURBANNE;5;35;Non;Parc Tête d'Or, itinéraire cyclable;Oui;;334;69266
+4.83758552177112;45.7377948262607;0;7009;Jean Jaurès;avenue Jean Jaurès;Angle rue Fourcade;Lyon 7 ème;9;16;Non;métro B;Oui;;335;69387
+4.85412407271076;45.7854214249624;0;6035;Cité Internationale;Quai Charles de Gaulle;Face parvis palais des congrés;Lyon 6 ème;35;21;Non;Cinéma, casino, palais des congrés;Oui;;336;69386
+4.84727526799871;45.7437195253427;0;7011;Berthelot / Garibaldi;rue Garibaldi;angle avenue Berthelot;Lyon 7 ème;11;10;Non;tram, itinéraires cyclables;Oui;;337;69387
+4.84997134280348;45.770856268343;0;6021;Garibaldi;rue Garibaldi;angle rue Grillon;Lyon 6 ème;21;11;Non;commerces (ATAC);Oui;;338;69386
+4.84934398081673;45.7823061128328;0;6037;Cité Internationale / Interpol;Allée A. Lignon;Au niveau de l'arrêt de bus Interpol;Lyon 6 ème;37;27;Non;Interpol, habitations, parc;Oui;;339;69386
+4.86269879238236;45.7382725902589;0;8034;Berthelot / Villon;rue Villon face 98;angle rue Berthelot;Lyon 8 ème;34;13;Non;tram;Oui;;340;69388
+4.84838234596466;45.7745269721979;0;6020;Musée Guimet;Boulevard des Belges;angle rue Morellet;Lyon 6 ème;20;15;Non;musée Guimet, itinéraire cyclable;Oui;;341;69386
+4.83635351449888;45.7513315688755;0;7002;Universités Lyon III / Lyon II;Quai Claude Bernard;Entre Pont de l'université et rue Chevreul;Lyon 7 ème;2;29;Non;Université Lyon 2 et Lyon 3;Oui;;342;69387
+4.84764466383356;45.7489989567957;0;7016;Place Saint Louis;rue de la Madeleine;angle rue Béguin;Lyon 7 ème;16;15;Non;Coeur quartier, itinéraire cyclable;Oui;;343;69387
+4.84156547149102;45.7648582723532;0;6032;Préfecture / Sarrail;Quai Général Sarrail face 4;angle rue Vauban;Lyon 6 ème;32;20;Non;;Oui;;344;69386
+4.88373682621306;45.7362404944941;0;8040;Ambroise Paré;Boulevard Ambroise Paré;;Lyon 8 ème;40;24;Non;Services et habitat;Oui;;345;69388
+4.83630103042172;45.7675408025158;0;1002;Opéra;Angle Place de la comédie, rue Joseph Serlin;;Lyon 1 er;2;22;Non;Opéra, métro, mairie centrale;Oui;;346;69381
+4.86991609151009;45.7365749445623;0;8009;Jean XXIII / Mermoz;place du 11 novembre 1918;;Lyon 8 ème;9;20;Non;tram;Oui;;347;69388
+4.82393218241695;45.7312497807651;0;7013;Halle Tony Garnier;Avenue Tony Garnier;;Lyon 7 ème;13;20;Non;Halle Tony Garnier;Oui;;348;69387
+4.83936546384035;45.7509333904299;0;7035;Marseille / Université;8 rue de l'Université;angle rue de Marseille;Lyon 7 ème;35;29;Non;tram;Oui;;349;69387
